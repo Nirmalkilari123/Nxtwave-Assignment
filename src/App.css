@@ -1,0 +1,80 @@
+body{
+  background-color: #004380;
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #fff; 
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:active {
+  background-color: #004380;
+}
+
+button:focus {
+  outline: none;
+}
+
+p {
+  margin-top: 20px;
+}
+
+.button{
+  margin: 5px;
+  height: 50px;
+  width:75px;
+  background-color:#007bff;
+  color: #fff;
+  border-radius: 2px;
+  border-width: 0px;
+}
+
+.button1{
+  margin: 5px;
+  height: 50px;
+  width:75px;
+  background-color:#007bff;
+  color: #fff;
+  border-radius: 2px;
+  border-width: 0px;
+}
+
+.input{
+  background-color:#007bff;
+  color: #fff;
+  border-radius: 2px;
+  border-width: 0px;
+}
